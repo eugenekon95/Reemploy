@@ -126,14 +126,30 @@
   }
 
   div:nth-child(2) {
-    margin: 1.75rem;
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
   }
 
   div:nth-child(3) {
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 2rem;
+  }
+
+  div:nth-child(4) {
+    width: 100px;
+    height: 100px;
+  }
+
+  div:nth-child(5) {
+    width: 100px;
+    height: 100px;
+  }
+
+  div:nth-child(6) {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 2rem;
   }
 
   @media screen and (min-width: 2000px) {
