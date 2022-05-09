@@ -24,8 +24,8 @@ import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
 import profile from '../assets/profile.png';
+import my_profile from '../assets/my_profile.png';
 import circle from '../assets/circle.svg';
-import logo from '../assets/logo.png';
 import logo_second from '../assets/logo_second.png';
 
 import adidas from '../assets/adidas.png';
@@ -65,7 +65,6 @@ export default {
   about04,
   profile,
   circle,
-  logo,
   adidas,
   amazon,
   asus,
@@ -76,5 +75,6 @@ export default {
   ruby,
   rails,
   postgresql,
-  logo_second
+  logo_second,
+  my_profile
 };
